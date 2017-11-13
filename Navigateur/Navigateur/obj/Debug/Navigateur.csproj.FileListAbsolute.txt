@@ -1,0 +1,10 @@
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\bin\Debug\Navigateur.exe
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\bin\Debug\Navigateur.pdb
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\Navigateur.Form1.resources
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\Navigateur.Properties.Resources.resources
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\Navigateur.csproj.GenerateResource.Cache
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\Navigateur.exe
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\obj\Debug\Navigateur.pdb
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\bin\Debug\Twitterizer2.dll
+C:\Documents and Settings\User_2\Bureau\Navigateur\Navigateur\bin\Debug\Newtonsoft.Json.dll
